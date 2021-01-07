@@ -1,0 +1,45 @@
+
+body{
+    margin: 0px;
+    width: 100%;
+    padding: 0px;
+    height: 100%;
+}
+header{
+    height: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100%;
+    
+  
+}
+
+.logo{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 20px;
+    float: left;
+
+}
+
+.icons{
+    float: right;
+    display: inline;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+.par{
+    display: inline-block;
+    padding-top: 20px;
+    font-family: "cursive";
+    font-style: italic;
+    font-size: 40px;
+    
+}
+
+li ,nav ,div{
+    display: inline;
+    vertical-align: center;
+    padding-top: 10px;
+}
+

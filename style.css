@@ -125,3 +125,14 @@ article{
  footer{
      text-align: center;
  }
+ article div{
+     margin-bottom: 30px;
+ }
+
+ #icon-img{
+     margin-left: -300px;
+    }
+
+ #it{
+  margin-left: 720px;
+}

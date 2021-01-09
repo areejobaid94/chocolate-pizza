@@ -5,10 +5,9 @@ body, header{
 }
 
 main{
-    margin-top: 20px;
-    background-color: white;
+    margin-top: -30px;
     text-align: center;
-    height: 1700px;
+    height: 1670px;
 }
 
 header{
@@ -76,7 +75,7 @@ margin-top: 10px;
 #checkboxs{
     float: left;
     padding-top: 40px;
-    width: 66%;
+    width: 66.5%;
     margin-left: 220px;
     background-image: url('img/list-bg.png');
     font-size: x-large;
@@ -118,7 +117,7 @@ article{
     width: 150px;
     color: white;
     margin-left: -240px;
-    margin-top: 110px;
+    margin-top: 90px;
     background-color: #bc7058;
 }
 .last-div{
@@ -126,6 +125,7 @@ article{
 }
  footer{
      text-align: center;
+     color: #b8c1c4;
  }
  article div{
      margin-bottom: 30px;
@@ -147,5 +147,5 @@ article{
 }
 #icon-span{
     display:inline-block;
-    margin-right: -34%
+    margin-right: -34%;
 }

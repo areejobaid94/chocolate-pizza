@@ -59,7 +59,7 @@ main article div h1{
     background-size: 9.90px 9.90px;
 }
 #p{
-margin-left: 223px;
+margin-left: 16.5%;
 margin-top: 10px;
 }
 .fig{
@@ -77,7 +77,7 @@ margin-top: 10px;
     float: left;
     padding-top: 40px;
     width: 66%;
-    margin-left: 228px;
+    margin-left: 220px;
     background-image: url('img/list-bg.png');
     font-size: x-large;
     text-align: left;
@@ -111,6 +111,7 @@ margin-top: 10px;
 }
 article{
     height: 1350px;
+    margin-bottom: 30px;
 }
 #SHARE{
     height: 50px;
@@ -130,13 +131,21 @@ article{
      margin-bottom: 30px;
  }
 
- #icon-img{
-     margin-left: -300px;
-    }
 
- #it{
-  margin-left: 720px;
+
+ #it, #icon-img{
+     margin-top: 10px;
+     float: right;
+     margin-right: -.7%;
+     display: block;
+}
+#it{
+    margin-top: 7px;
 }
 #main-img{
-    width: 66%;
+    width: 67%;
+}
+#icon-span{
+    display:inline-block;
+    margin-right: -34%
 }
